@@ -1,0 +1,8 @@
+{
+  "path_file": "matrix_sarsa_final_epsilon_0.1.npy",
+  "algo": "sarsa",
+  "learning_rate": 0.1,
+  "epoch": 25000,
+  "start_epsilon": 1.0,
+  "final_epsilon": 0.1
+}
